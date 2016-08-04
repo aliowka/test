@@ -1,0 +1,1 @@
+web: PYTHONPATH=$PYTHONPATH:$(pwd) python test.py
